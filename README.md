@@ -1,1 +1,1 @@
-# Bank-Fraud-detection
+# Bank-Fraud-detection Using Quantum Machine Learning - Sequential LSTM
